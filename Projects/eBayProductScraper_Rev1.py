@@ -1,4 +1,3 @@
-#Created by Robert Neagu.
 #Please note that this code should only be used for educational purposes.
 #import libraries
 import requests
