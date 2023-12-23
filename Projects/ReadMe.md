@@ -7,8 +7,8 @@ Gather general statistics on the heights of college athletes.
 
 # eBay Product Scraper
 
-Gather information on eBay listings from the product you search for.
-The Python file has been used for testing purposes for other eBay-related projects.
+Gather information on eBay listings from the product you search for.<br>
+The Python file has been used for testing purposes for other eBay-related projects.<br>
 
 # eBay RTX 4090 Top Seller?
 
@@ -26,8 +26,8 @@ The data frame is then used to create many visual representations showcasing cor
 
 # Plane Passenger Satisfaction
 
-Uses a pre-made dataset from Kaggle to create a Linear Regression model.
-The model uses a set of parameters of a passenger to determine how satisfied they were with the flight trip.
-Statistics of the model are gathered to determine its usability.
-The model is exported as a pkl file.
-The bottom of the code has an example of parameter inputs and a predicted satisfaction output.
+Uses a pre-made dataset from Kaggle to create a Linear Regression model. <br><br>
+The model uses a set of parameters of a passenger to determine how satisfied they were with the flight trip. <br>
+Statistics of the model are gathered to determine its usability. <br>
+The model is exported as a pkl file. <br>
+The bottom of the code has an example of parameter inputs and a predicted satisfaction output.<br>
